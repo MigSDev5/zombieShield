@@ -1,3 +1,5 @@
+link of the initial post:
+    https://epochmod.com/forum/topic/11513-zombie-shield-generator/
 # zombie Shield generator
 
 1. First Download the file.
